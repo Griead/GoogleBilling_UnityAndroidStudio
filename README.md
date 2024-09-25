@@ -1,0 +1,2 @@
+# GoogleBilling_UnityAndroidStudio
+Unity接入GoogleBilling的AndroidStudio工程
